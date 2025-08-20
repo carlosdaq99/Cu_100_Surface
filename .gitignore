@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+*.env
+.env*
+.venv/
+venv/
+# Jupyter
+.ipynb_checkpoints/
+# VSCode
+.vscode/
+# Data/outputs
+outputs/*.csv
+outputs/*.png
+outputs/*.html
+outputs/*.pdf
+outputs/*.jpg
+outputs/*.jpeg
+# System
+Thumbs.db
+.DS_Store
+# Test
+*.pytest_cache/
+# Reports
+reports/
+logs/
