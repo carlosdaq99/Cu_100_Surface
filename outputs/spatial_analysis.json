@@ -1,0 +1,809 @@
+{
+  "data_quadrants": [
+    {
+      "row": 0,
+      "col": 0,
+      "easting": 442299.0,
+      "northing": 189543.5
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 189543.5
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "easting": 443299.0,
+      "northing": 190043.5
+    },
+    {
+      "row": 2,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 190043.5
+    },
+    {
+      "row": 2,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 190043.5
+    },
+    {
+      "row": 3,
+      "col": 10,
+      "easting": 444799.0,
+      "northing": 190293.5
+    },
+    {
+      "row": 4,
+      "col": 12,
+      "easting": 445299.0,
+      "northing": 190543.5
+    },
+    {
+      "row": 5,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 190793.5
+    },
+    {
+      "row": 5,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 190793.5
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "easting": 443549.0,
+      "northing": 191043.5
+    },
+    {
+      "row": 7,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 191293.5
+    },
+    {
+      "row": 8,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 191543.5
+    },
+    {
+      "row": 9,
+      "col": 3,
+      "easting": 443049.0,
+      "northing": 191793.5
+    },
+    {
+      "row": 9,
+      "col": 5,
+      "easting": 443549.0,
+      "northing": 191793.5
+    },
+    {
+      "row": 9,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 191793.5
+    },
+    {
+      "row": 9,
+      "col": 11,
+      "easting": 445049.0,
+      "northing": 191793.5
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "easting": 442549.0,
+      "northing": 192043.5
+    },
+    {
+      "row": 10,
+      "col": 4,
+      "easting": 443299.0,
+      "northing": 192043.5
+    },
+    {
+      "row": 10,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 192043.5
+    },
+    {
+      "row": 10,
+      "col": 10,
+      "easting": 444799.0,
+      "northing": 192043.5
+    },
+    {
+      "row": 10,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 192043.5
+    },
+    {
+      "row": 11,
+      "col": 7,
+      "easting": 444049.0,
+      "northing": 192293.5
+    },
+    {
+      "row": 11,
+      "col": 10,
+      "easting": 444799.0,
+      "northing": 192293.5
+    },
+    {
+      "row": 11,
+      "col": 16,
+      "easting": 446299.0,
+      "northing": 192293.5
+    },
+    {
+      "row": 12,
+      "col": 1,
+      "easting": 442549.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 12,
+      "col": 6,
+      "easting": 443799.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 12,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 12,
+      "col": 10,
+      "easting": 444799.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 12,
+      "col": 11,
+      "easting": 445049.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 12,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 12,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 192543.5
+    },
+    {
+      "row": 13,
+      "col": 4,
+      "easting": 443299.0,
+      "northing": 192793.5
+    },
+    {
+      "row": 13,
+      "col": 7,
+      "easting": 444049.0,
+      "northing": 192793.5
+    },
+    {
+      "row": 13,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 192793.5
+    },
+    {
+      "row": 14,
+      "col": 3,
+      "easting": 443049.0,
+      "northing": 193043.5
+    },
+    {
+      "row": 14,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 193043.5
+    },
+    {
+      "row": 14,
+      "col": 11,
+      "easting": 445049.0,
+      "northing": 193043.5
+    },
+    {
+      "row": 14,
+      "col": 12,
+      "easting": 445299.0,
+      "northing": 193043.5
+    },
+    {
+      "row": 14,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 193043.5
+    },
+    {
+      "row": 14,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 193043.5
+    },
+    {
+      "row": 15,
+      "col": 2,
+      "easting": 442799.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 15,
+      "col": 5,
+      "easting": 443549.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 15,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 15,
+      "col": 12,
+      "easting": 445299.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 15,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 15,
+      "col": 15,
+      "easting": 446049.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 15,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 193293.5
+    },
+    {
+      "row": 16,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 193543.5
+    },
+    {
+      "row": 16,
+      "col": 15,
+      "easting": 446049.0,
+      "northing": 193543.5
+    },
+    {
+      "row": 16,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 193543.5
+    },
+    {
+      "row": 16,
+      "col": 19,
+      "easting": 447049.0,
+      "northing": 193543.5
+    },
+    {
+      "row": 17,
+      "col": 3,
+      "easting": 443049.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 17,
+      "col": 4,
+      "easting": 443299.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 17,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 17,
+      "col": 12,
+      "easting": 445299.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 17,
+      "col": 16,
+      "easting": 446299.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 17,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 17,
+      "col": 19,
+      "easting": 447049.0,
+      "northing": 193793.5
+    },
+    {
+      "row": 18,
+      "col": 4,
+      "easting": 443299.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 18,
+      "col": 7,
+      "easting": 444049.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 18,
+      "col": 12,
+      "easting": 445299.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 18,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 18,
+      "col": 15,
+      "easting": 446049.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 18,
+      "col": 16,
+      "easting": 446299.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 18,
+      "col": 19,
+      "easting": 447049.0,
+      "northing": 194043.5
+    },
+    {
+      "row": 19,
+      "col": 4,
+      "easting": 443299.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 10,
+      "easting": 444799.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 15,
+      "easting": 446049.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 18,
+      "easting": 446799.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 19,
+      "col": 19,
+      "easting": 447049.0,
+      "northing": 194293.5
+    },
+    {
+      "row": 20,
+      "col": 11,
+      "easting": 445049.0,
+      "northing": 194543.5
+    },
+    {
+      "row": 20,
+      "col": 12,
+      "easting": 445299.0,
+      "northing": 194543.5
+    },
+    {
+      "row": 20,
+      "col": 13,
+      "easting": 445549.0,
+      "northing": 194543.5
+    },
+    {
+      "row": 20,
+      "col": 14,
+      "easting": 445799.0,
+      "northing": 194543.5
+    },
+    {
+      "row": 20,
+      "col": 18,
+      "easting": 446799.0,
+      "northing": 194543.5
+    },
+    {
+      "row": 20,
+      "col": 19,
+      "easting": 447049.0,
+      "northing": 194543.5
+    },
+    {
+      "row": 21,
+      "col": 6,
+      "easting": 443799.0,
+      "northing": 194793.5
+    },
+    {
+      "row": 21,
+      "col": 8,
+      "easting": 444299.0,
+      "northing": 194793.5
+    },
+    {
+      "row": 21,
+      "col": 9,
+      "easting": 444549.0,
+      "northing": 194793.5
+    },
+    {
+      "row": 21,
+      "col": 11,
+      "easting": 445049.0,
+      "northing": 194793.5
+    },
+    {
+      "row": 21,
+      "col": 20,
+      "easting": 447299.0,
+      "northing": 194793.5
+    },
+    {
+      "row": 21,
+      "col": 30,
+      "easting": 449799.0,
+      "northing": 194793.5
+    },
+    {
+      "row": 22,
+      "col": 19,
+      "easting": 447049.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 22,
+      "col": 20,
+      "easting": 447299.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 22,
+      "col": 21,
+      "easting": 447549.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 22,
+      "col": 25,
+      "easting": 448549.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 22,
+      "col": 27,
+      "easting": 449049.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 22,
+      "col": 28,
+      "easting": 449299.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 22,
+      "col": 30,
+      "easting": 449799.0,
+      "northing": 195043.5
+    },
+    {
+      "row": 23,
+      "col": 11,
+      "easting": 445049.0,
+      "northing": 195293.5
+    },
+    {
+      "row": 23,
+      "col": 22,
+      "easting": 447799.0,
+      "northing": 195293.5
+    },
+    {
+      "row": 23,
+      "col": 23,
+      "easting": 448049.0,
+      "northing": 195293.5
+    },
+    {
+      "row": 23,
+      "col": 25,
+      "easting": 448549.0,
+      "northing": 195293.5
+    },
+    {
+      "row": 23,
+      "col": 28,
+      "easting": 449299.0,
+      "northing": 195293.5
+    },
+    {
+      "row": 24,
+      "col": 17,
+      "easting": 446549.0,
+      "northing": 195543.5
+    },
+    {
+      "row": 26,
+      "col": 21,
+      "easting": 447549.0,
+      "northing": 196043.5
+    }
+  ],
+  "spatial_analysis": {
+    "total_data_quadrants": 100,
+    "grid_coverage": {
+      "rows_with_data": 25,
+      "cols_with_data": 28,
+      "max_row_gap": 9,
+      "max_col_gap": 10
+    }
+  },
+  "interpolation_considerations": {
+    "quadrant_size_m": 250,
+    "max_interpolation_distance_recommended": 500,
+    "sparse_regions": [
+      {
+        "region_bounds": {
+          "start_row": 0,
+          "end_row": 5,
+          "start_col": 0,
+          "end_col": 5
+        },
+        "data_density": 0.08,
+        "quadrants_with_data": 2
+      },
+      {
+        "region_bounds": {
+          "start_row": 0,
+          "end_row": 5,
+          "start_col": 5,
+          "end_col": 10
+        },
+        "data_density": 0.08,
+        "quadrants_with_data": 2
+      },
+      {
+        "region_bounds": {
+          "start_row": 0,
+          "end_row": 5,
+          "start_col": 10,
+          "end_col": 15
+        },
+        "data_density": 0.12,
+        "quadrants_with_data": 3
+      },
+      {
+        "region_bounds": {
+          "start_row": 0,
+          "end_row": 5,
+          "start_col": 15,
+          "end_col": 20
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 0,
+          "end_row": 5,
+          "start_col": 20,
+          "end_col": 25
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 0,
+          "end_row": 5,
+          "start_col": 25,
+          "end_col": 30
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 5,
+          "end_row": 10,
+          "start_col": 0,
+          "end_col": 5
+        },
+        "data_density": 0.04,
+        "quadrants_with_data": 1
+      },
+      {
+        "region_bounds": {
+          "start_row": 5,
+          "end_row": 10,
+          "start_col": 10,
+          "end_col": 15
+        },
+        "data_density": 0.08,
+        "quadrants_with_data": 2
+      },
+      {
+        "region_bounds": {
+          "start_row": 5,
+          "end_row": 10,
+          "start_col": 15,
+          "end_col": 20
+        },
+        "data_density": 0.04,
+        "quadrants_with_data": 1
+      },
+      {
+        "region_bounds": {
+          "start_row": 5,
+          "end_row": 10,
+          "start_col": 20,
+          "end_col": 25
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 5,
+          "end_row": 10,
+          "start_col": 25,
+          "end_col": 30
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 10,
+          "end_row": 15,
+          "start_col": 15,
+          "end_col": 20
+        },
+        "data_density": 0.08,
+        "quadrants_with_data": 2
+      },
+      {
+        "region_bounds": {
+          "start_row": 10,
+          "end_row": 15,
+          "start_col": 20,
+          "end_col": 25
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 10,
+          "end_row": 15,
+          "start_col": 25,
+          "end_col": 30
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 15,
+          "end_row": 20,
+          "start_col": 20,
+          "end_col": 25
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 15,
+          "end_row": 20,
+          "start_col": 25,
+          "end_col": 30
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 20,
+          "end_row": 25,
+          "start_col": 0,
+          "end_col": 5
+        },
+        "data_density": 0.0,
+        "quadrants_with_data": 0
+      },
+      {
+        "region_bounds": {
+          "start_row": 20,
+          "end_row": 25,
+          "start_col": 5,
+          "end_col": 10
+        },
+        "data_density": 0.12,
+        "quadrants_with_data": 3
+      },
+      {
+        "region_bounds": {
+          "start_row": 20,
+          "end_row": 25,
+          "start_col": 15,
+          "end_col": 20
+        },
+        "data_density": 0.16,
+        "quadrants_with_data": 4
+      }
+    ]
+  }
+}

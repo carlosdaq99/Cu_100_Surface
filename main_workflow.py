@@ -34,6 +34,7 @@ def main():
     quadrants_output = os.path.join(outputs_dir, "quadrant_summary.csv")
     map_png_output = os.path.join(outputs_dir, "sesro_satellite_map.png")
     map_html_output = os.path.join(outputs_dir, "sesro_interactive_map.html")
+    simple_grid_output = os.path.join(outputs_dir, "simple_grid.png")
 
     try:
         # Step 1: Coordinate Transformation
@@ -86,6 +87,20 @@ def main():
         logger.info(f"✓ PNG map generated: {map_png_output}")
         logger.info(f"✓ HTML map generated: {map_html_output}")
 
+        # Step 4: Simple Grid Generation
+        logger.info("=" * 60)
+        logger.info("STEP 4: SIMPLE GRID GENERATION")
+        logger.info("=" * 60)
+
+        from simple_grid_generator import SimpleGridGenerator
+
+        grid_generator = SimpleGridGenerator()
+        grid_generator.create_simple_grid(
+            occupancy_matrix, bounds, simple_grid_output, quadrant_size=250
+        )
+
+        logger.info(f"✓ Simple grid generated: {simple_grid_output}")
+
         # Final Summary
         logger.info("=" * 60)
         logger.info("WORKFLOW COMPLETED SUCCESSFULLY")
@@ -104,6 +119,7 @@ def main():
         print(f"   • {quadrants_output}")
         print(f"   • {map_png_output}")
         print(f"   • {map_html_output}")
+        print(f"   • {simple_grid_output}")
         print("\n🎯 All modules executed successfully!")
         print("=" * 60)
 
