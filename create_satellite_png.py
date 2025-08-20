@@ -159,7 +159,7 @@ def load_optimized_data():
     except FileNotFoundError:
         # Fallback to creating from cleaned data
         log_message("Optimized data not found, loading from cleaned dataset...")
-        df = pd.read_csv("CompiledCu_Cleaned.csv")
+        df = pd.read_csv("outputs/CompiledCu_Cleaned.csv")
 
         # Get unique locations with basic aggregation
         unique_locations = (

@@ -133,7 +133,9 @@ def load_and_optimize_cu_data(chunk_size: int = 5000) -> pd.DataFrame:
         chunks = []
         chunk_count = 0
 
-        for chunk in pd.read_csv("CompiledCu_Cleaned.csv", chunksize=chunk_size):
+        for chunk in pd.read_csv(
+            "outputs/CompiledCu_Cleaned.csv", chunksize=chunk_size
+        ):
             # Optimize each chunk individually
             optimized_chunk = optimize_geotechnical_dataframe(chunk)
             chunks.append(optimized_chunk)
@@ -158,7 +160,7 @@ def load_and_optimize_cu_data(chunk_size: int = 5000) -> pd.DataFrame:
         log_message(f"Error loading data: {str(e)}", "ERROR")
         # Fallback to standard loading
         log_message("Falling back to standard loading method...")
-        df = pd.read_csv("CompiledCu_Cleaned.csv")
+        df = pd.read_csv("outputs/CompiledCu_Cleaned.csv")
         return optimize_geotechnical_dataframe(df)
 
 
