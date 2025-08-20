@@ -1,0 +1,131 @@
+Easting,Northing,LocationID,TestTypes,MinDepth,MaxDepth,TestCount,MinCu,MaxCu,MeanCu,Investigation,PrimaryTestType
+442174.0,189418.5,TP19,HandVane,0.9,1.3,2,45.0,75.0,60.0,1991 to 1992 - Exploration Associates,HandVane
+442517.46,192545.08,TP325,HandVane,0.5,4.5,5,77.0,130.0,110.066,2005 - Norwest Holst Engineering Ltd,HandVane
+442602.83,191932.85,TP372,HandVane,0.5,2.5,3,58.67,75.0,67.44666666666667,2005 - Norwest Holst Engineering Ltd,HandVane
+442696.88,193306.85,TP313,HandVane,0.5,4.5,5,55.33,130.0,103.46600000000001,2005 - Norwest Holst Engineering Ltd,HandVane
+442964.5,193054.0,TP05,HandVane/TriaxialTotal,0.5,4.0,10,36.0,140.0,90.099,1991 to 1992 - Exploration Associates,Mixed
+443080.5,193742.0,BH20,TriaxialTotal,3.95,3.95,1,69.0,69.0,69.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+443169.46,191793.23,BH522,TriaxialTotal,3.2,3.2,1,140.0,140.0,140.0,2024 - Arcadis Phase 2A,TriaxialTotal
+443183.03,191925.31,BH405,TriaxialTotal,4.3,4.3,1,200.0,200.0,200.0,2024 - Arcadis Phase 2A,TriaxialTotal
+443212.09,194159.57,TP390,HandVane,1.2,4.5,6,67.33,130.0,104.88833333333332,2005 - Norwest Holst Engineering Ltd,HandVane
+443232.55,192049.85,TP391B,HandVane,1.2,1.2,1,84.33,84.33,84.33,2005 - Norwest Holst Engineering Ltd,HandVane
+443250.66,192781.47,TP326,HandVane,2.0,2.0,1,106.0,106.0,106.0,2006 - Norwest Holst Engineering Ltd,HandVane
+443263.5,192027.59,TP391,HandVane,0.6,3.0,3,80.0,130.0,105.33333333333333,2005 - Norwest Holst Engineering Ltd,HandVane
+443303.49,191992.19,TP391C,HandVane,0.8,2.2,4,72.33,111.67,89.91499999999999,2005 - Norwest Holst Engineering Ltd,HandVane
+443334.5,194205.0,TP20,HandVane,0.5,3.5,6,73.0,140.0,92.434,1991 to 1992 - Exploration Associates,HandVane
+443373.67,193758.5,TP305,HandVane,1.45,2.45,2,74.0,104.0,89.0,2005 - Norwest Holst Engineering Ltd,HandVane
+443403.5,189985.0,TP10,HandVane/TriaxialTotal,0.75,4.0,7,46.67,140.0,91.42999999999999,1991 to 1992 - Exploration Associates,Mixed
+443404.0,189954.0,BH47,TriaxialTotal,32.5,32.5,1,530.0,530.0,530.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+443433.6,191804.99,BH523,TriaxialTotal,7.4,7.4,1,120.0,120.0,120.0,2024 - Arcadis Phase 2A,TriaxialTotal
+443447.0,190957.0,TP08,HandVane/TriaxialTotal,0.5,4.0,7,93.33,180.0,125.23571428571428,1991 to 1992 - Exploration Associates,Mixed
+443466.58,193175.12,TP315,HandVane,0.9,4.5,5,80.0,130.0,103.4,2005 - Norwest Holst Engineering Ltd,HandVane
+443739.89,192592.43,TP327,HandVane,1.2,4.5,6,88.67,130.0,113.0,2005 - Norwest Holst Engineering Ltd,HandVane
+443777.0,194745.0,TP01,HandVane,0.5,3.5,8,51.67,125.0,81.46000000000001,1991 to 1992 - Exploration Associates,HandVane
+444021.64,194076.28,TP306,HandVane,1.5,4.8,5,89.33,130.0,108.4,2005 - Norwest Holst Engineering Ltd,HandVane
+444036.22,192768.95,CPT551B,CPTDerived/HandVane,1.2,15.5,694,66.2,1032.0,264.9340057636888,2024 - Arcadis Phase 1,Mixed
+444036.94,192769.52,CPT551BA,CPTDerived/HandVane,1.2,15.48,1314,84.7,768.1,250.87001522070017,2024 - Arcadis Phase 1,Mixed
+444060.56,192814.36,BH551,TriaxialTotal,6.4,14.75,2,42.0,100.0,71.0,2024 - Arcadis Phase 1,TriaxialTotal
+444075.22,192798.74,CPT551A,CPTDerived/HandVane,1.2,15.5,687,66.7,971.4,242.82154294032023,2024 - Arcadis Phase 1,Mixed
+444075.88,192799.52,CPT551A-A,CPTDerived/HandVane,1.2,15.48,1316,76.5,972.4,260.61489361702127,2024 - Arcadis Phase 1,Mixed
+444113.0,192208.0,TP07,HandVane/TriaxialTotal,2.5,4.1,5,55.0,84.0,71.73400000000001,1991 to 1992 - Exploration Associates,Mixed
+444121.72,192829.7,CPT551C,CPTDerived/HandVane,1.2,8.84,365,55.1,637.0,196.96657534246577,2024 - Arcadis Phase 1,Mixed
+444122.34,192830.36,CPT551CA,CPTDerived/HandVane,1.2,15.48,1302,75.9,652.7,252.29247311827956,2024 - Arcadis Phase 1,Mixed
+444136.94,192249.23,BH406,TriaxialTotal,6.4,6.4,1,120.0,120.0,120.0,2024 - Arcadis Phase 1,TriaxialTotal
+444305.97,194779.33,TP301,HandVane,0.8,4.4,5,68.33,130.0,99.066,2005 - Norwest Holst Engineering Ltd,HandVane
+444475.1,192526.48,BH401,TriaxialTotal,6.15,6.15,1,200.0,200.0,200.0,2024 - Arcadis Phase 1,TriaxialTotal
+444483.5,190048.0,TP11,HandVane,0.6,1.5,3,73.33,75.0,74.16499999999999,1991 to 1992 - Exploration Associates,HandVane
+444494.25,192093.37,CPT407,CPTDerived/HandVane,1.42,8.08,293,65.9,587.1,163.5034129692833,2024 - Arcadis Phase 1,Mixed
+444512.65,193296.41,TP318,HandVane,1.5,4.4,5,64.0,130.0,105.066,2005 - Norwest Holst Engineering Ltd,HandVane
+444524.89,191600.65,BH408,TriaxialTotal,7.9,13.6,3,23.0,200.0,106.66666666666667,2024 - Arcadis Phase 1,TriaxialTotal
+444536.5,189441.0,TP18,HandVane,0.4,0.4,1,130.0,130.0,130.0,1991 to 1992 - Exploration Associates,HandVane
+444550.43,191802.65,BH524,TriaxialTotal,9.8,9.8,1,36.0,36.0,36.0,2024 - Arcadis Phase 1,TriaxialTotal
+444556.64,194201.72,OS01,HandVane/TriaxialTotal,0.75,9.5,12,120.0,551.88,173.53166666666667,2005 - Norwest Holst Engineering Ltd,Mixed
+444557.5,193811.41,TP308,HandVane,2.5,4.7,4,105.33,130.0,121.8325,2005 - Norwest Holst Engineering Ltd,HandVane
+444560.0,194678.0,TP02,HandVane/TriaxialTotal,0.6,4.0,7,75.0,190.0,101.04857142857144,1991 to 1992 - Exploration Associates,Mixed
+444607.09,193013.82,TP319A,HandVane,1.5,4.7,5,94.0,130.0,113.73400000000001,2005 - Norwest Holst Engineering Ltd,HandVane
+444636.0,191854.0,EA5,TriaxialTotal,3.5,10.5,8,64.0,250.0,111.375,1990 - Exploration Associates,TriaxialTotal
+444671.0,191309.5,TP16,HandVane,0.6,4.1,5,55.0,110.0,80.0,1991 to 1992 - Exploration Associates,HandVane
+444679.85,192611.53,TP329,HandVane,1.8,2.8,2,94.0,104.67,99.33500000000001,2005 - Norwest Holst Engineering Ltd,HandVane
+444699.65,192250.98,BH409,TriaxialTotal,6.25,9.3,2,72.0,89.0,80.5,2024 - Arcadis Phase 1,TriaxialTotal
+444781.5,190365.0,TP17,HandVane,0.4,3.5,5,81.67,125.0,96.0,1991 to 1992 - Exploration Associates,HandVane
+444794.7,191943.81,BH414,TriaxialTotal,7.41,19.7,2,81.0,400.0,240.5,2024 - Arcadis Phase 1,TriaxialTotal
+444811.13,194233.98,BH477,TriaxialTotal,2.0,2.0,1,28.0,28.0,28.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+444862.0,192300.0,EA2,TriaxialTotal,2.5,9.5,8,59.0,150.0,102.875,1990 - Exploration Associates,TriaxialTotal
+444880.0,192533.0,EA1,TriaxialTotal,1.5,4.5,4,58.0,160.0,86.5,1990 - Exploration Associates,TriaxialTotal
+444909.0,191958.0,EA3,TriaxialTotal,2.5,15.0,12,61.0,250.0,145.58333333333334,1990 - Exploration Associates,TriaxialTotal
+444987.36,194502.13,TP339,HandVane,1.4,2.5,3,100.0,130.0,116.44333333333333,2005 - Norwest Holst Engineering Ltd,HandVane
+444998.84,194898.45,TP302,HandVane,1.7,4.6,7,85.67,130.0,116.66714285714285,2005 - Norwest Holst Engineering Ltd,HandVane
+445007.0,195218.5,BH09,TriaxialTotal,6.0,6.0,1,64.0,64.0,64.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+445023.0,191743.0,EA4,TriaxialTotal,2.5,15.0,12,67.0,250.0,161.41666666666666,1990 - Exploration Associates,TriaxialTotal
+445102.5,192635.5,TP06,HandVane,1.0,4.0,4,65.0,105.0,85.8325,1991 to 1992 - Exploration Associates,HandVane
+445105.5,192630.5,BH30,TriaxialTotal,2.5,2.5,1,78.0,78.0,78.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+445154.19,192988.29,TP321,HandVane,0.5,4.85,10,130.0,130.0,130.0,2005 - Norwest Holst Engineering Ltd,HandVane
+445190.63,193231.45,BH355,TriaxialTotal,5.29,8.07,2,73.0,97.0,85.0,2005 - Norwest Holst Engineering Ltd,TriaxialTotal
+445220.34,193252.29,OS02,HandVane/TriaxialTotal,1.5,14.5,19,104.0,274.6,139.11052631578946,2005 - Norwest Holst Engineering Ltd,Mixed
+445237.5,190446.5,TP12,HandVane,0.7,3.0,4,65.0,136.67,94.5825,1991 to 1992 - Exploration Associates,HandVane
+445279.19,193807.48,TP310,HandVane,1.0,4.8,6,79.33,130.0,112.665,2005 - Norwest Holst Engineering Ltd,HandVane
+445340.5,194625.5,BH58,TriaxialTotal,9.5,9.5,1,170.0,170.0,170.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+445389.18,194151.27,TP309,HandVane,1.5,4.5,4,72.33,123.33,102.91499999999999,2005 - Norwest Holst Engineering Ltd,HandVane
+445416.54,192996.0,BH403,TriaxialTotal,4.43,4.43,1,150.0,150.0,150.0,2024 - Arcadis Phase 1,TriaxialTotal
+445433.29,192646.63,BH410,TriaxialTotal,6.3,14.07,2,59.0,210.0,134.5,2024 - Arcadis Phase 1,TriaxialTotal
+445438.5,193245.5,BH56,TriaxialTotal,2.5,9.5,6,180.0,250.0,218.33333333333334,1991 to 1992 - Exploration Associates,TriaxialTotal
+445442.13,194493.53,TP395,HandVane,0.5,4.5,5,61.33,130.0,92.13199999999999,2005 - Norwest Holst Engineering Ltd,HandVane
+445468.5,192848.5,TP13,TriaxialTotal,1.2,1.2,1,94.0,94.0,94.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+445518.38,194185.08,BH437,TriaxialTotal,10.5,10.5,1,240.0,240.0,240.0,2024 - Arcadis Phase 2A,TriaxialTotal
+445579.7,192138.53,TP338,HandVane,2.1,5.0,4,97.0,130.0,115.75,2005 - Norwest Holst Engineering Ltd,HandVane
+445639.91,193531.79,TP322,HandVane,1.0,2.5,3,64.0,139.0,98.66666666666667,2006 - Norwest Holst Engineering Ltd,HandVane
+445706.06,194608.01,TP303,HandVane,0.5,4.5,6,63.33,130.0,97.77666666666666,2005 - Norwest Holst Engineering Ltd,HandVane
+445711.99,194384.16,CPT403,CPTDerived/HandVane,1.2,18.2,817,40.0,1439.4,356.4272949816401,2024 - Arcadis Phase 2A,Mixed
+445726.93,194041.2,TP340,HandVane,1.5,4.0,4,85.33,130.0,109.5,2005 - Norwest Holst Engineering Ltd,HandVane
+445763.44,192564.41,OS03,HandVane/TriaxialTotal,6.5,14.5,4,130.0,193.33,145.8325,2005 - Norwest Holst Engineering Ltd,Mixed
+445772.23,193046.7,TP323,HandVane,1.4,4.9,6,81.0,130.0,102.16666666666667,2005 - Norwest Holst Engineering Ltd,HandVane
+445809.5,190828.0,TP09,TriaxialTotal,1.5,4.0,3,66.0,150.0,98.33333333333333,1991 to 1992 - Exploration Associates,TriaxialTotal
+445813.5,189995.0,BH50,TriaxialTotal,21.8,21.8,1,530.0,530.0,530.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+445818.05,192598.84,BH358,TriaxialTotal,5.2,8.6,2,40.0,51.0,45.5,2005 - Norwest Holst Engineering Ltd,TriaxialTotal
+445819.0,190836.0,BH45,TriaxialTotal,9.4,24.35,2,400.0,420.0,410.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+445994.0,193590.0,BH23,TriaxialTotal,7.3,30.0,2,170.0,340.0,255.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+446081.88,193169.38,BH412,TriaxialTotal,9.3,14.7,3,64.0,220.0,168.0,2024 - Arcadis Phase 1,TriaxialTotal
+446136.74,193982.37,CPT428,CPTDerived/HandVane,0.1,17.68,771,51.4,1877.5,291.95862516212713,2024 - Arcadis Phase 2A,Mixed
+446143.21,194357.4,CPT404,CPTDerived/HandVane,1.2,13.94,620,73.0,1988.8,314.29145161290324,2024 - Arcadis Phase 2A,Mixed
+446230.99,194060.0,BH545,TriaxialTotal,7.7,11.7,2,100.0,170.0,135.0,2024 - Arcadis Phase 2A,TriaxialTotal
+446327.9,192408.02,BH415A,TriaxialTotal,10.95,24.07,2,69.0,130.0,99.5,2024 - Arcadis Phase 1,TriaxialTotal
+446344.7,194125.28,CPT534,CPTDerived/HandVane,1.12,2.42,59,77.6,184.6,116.90677966101696,2024 - Arcadis Phase 2A,Mixed
+446381.45,193918.01,TP311,HandVane,1.7,4.5,4,98.0,130.0,115.25,2005 - Norwest Holst Engineering Ltd,HandVane
+446426.06,193721.43,TP392F,HandVane,1.0,2.8,3,71.0,139.0,113.44333333333334,2006 - Norwest Holst Engineering Ltd,HandVane
+446457.91,193662.73,TP392E,HandVane,1.0,3.0,3,127.67,135.33,131.0,2006 - Norwest Holst Engineering Ltd,HandVane
+446491.29,193034.8,BH416,TriaxialTotal,4.28,18.3,4,61.0,340.0,186.25,2024 - Arcadis Phase 1,TriaxialTotal
+446493.75,193045.18,CPT408,CPTDerived/HandVane,1.52,10.52,451,66.8,366.4,145.45809312638582,2024 - Arcadis Phase 1,Mixed
+446500.11,193591.92,TP392C,HandVane,2.0,3.0,2,76.67,110.0,93.33500000000001,2006 - Norwest Holst Engineering Ltd,HandVane
+446525.0,194293.98,BH420,TriaxialTotal,16.8,16.8,1,360.0,360.0,360.0,2024 - Arcadis Phase 2A,TriaxialTotal
+446525.0,194301.5,CPT420,CPTDerived/HandVane,1.76,16.22,712,89.0,916.9,266.6127808988764,2024 - Arcadis Phase 2A,Mixed
+446526.66,194244.77,TP394,HandVane,1.4,4.6,5,84.67,130.0,109.73400000000001,2005 - Norwest Holst Engineering Ltd,HandVane
+446526.73,193548.57,TP392G,HandVane,1.0,2.5,3,74.0,139.0,102.0,2006 - Norwest Holst Engineering Ltd,HandVane
+446531.0,190836.0,TP14,HandVane/TriaxialTotal,0.7,2.7,5,37.5,118.33,76.232,1991 to 1992 - Exploration Associates,Mixed
+446560.53,193483.37,TP392,HandVane,2.0,4.4,4,68.33,101.33,86.0,2006 - Norwest Holst Engineering Ltd,HandVane
+446589.02,194340.83,CPT422,CPTDerived/HandVane,1.34,8.7,355,46.4,740.8,187.60422535211268,2024 - Arcadis Phase 2A,Mixed
+446611.82,193387.63,TP324,HandVane,2.0,3.0,2,64.67,94.0,79.33500000000001,2006 - Norwest Holst Engineering Ltd,HandVane
+446626.0,195481.0,TP15,HandVane,0.6,4.3,5,56.67,126.67,81.334,1991 to 1992 - Exploration Associates,HandVane
+446637.51,194368.41,BH422,TriaxialTotal,19.9,19.9,1,260.0,260.0,260.0,2024 - Arcadis Phase 2A,TriaxialTotal
+446704.01,194328.99,BH502,TriaxialTotal,8.7,8.7,1,200.0,200.0,200.0,2024 - Arcadis Phase 2A,TriaxialTotal
+446824.23,194577.16,CPT535,CPTDerived/HandVane,1.2,5.56,215,69.2,467.1,158.08279069767443,2024 - Arcadis Phase 2A,Mixed
+446827.93,194479.01,BH501,TriaxialTotal,3.2,3.2,1,74.0,74.0,74.0,2024 - Arcadis Phase 2A,TriaxialTotal
+446938.0,193841.0,TP04,HandVane/TriaxialTotal,0.5,4.0,5,65.0,140.0,105.53200000000001,1991 to 1992 - Exploration Associates,Mixed
+446982.35,194256.59,BH474,TriaxialTotal,4.7,4.7,1,64.0,64.0,64.0,2024 - Arcadis Phase 2A,TriaxialTotal
+447018.7,193429.6,BH411,TriaxialTotal,6.1,13.3,2,53.0,140.0,96.5,2024 - Arcadis Phase 2A,TriaxialTotal
+447028.11,194559.65,BH500,TriaxialTotal,8.7,8.7,1,140.0,140.0,140.0,2024 - Arcadis Phase 2A,TriaxialTotal
+447035.0,194082.0,TP03,HandVane,0.5,4.3,5,71.67,140.0,100.334,1991 to 1992 - Exploration Associates,HandVane
+447089.24,195048.31,BH498,TriaxialTotal,5.7,9.3,2,53.0,85.0,69.0,2024 - Arcadis Phase 2A,TriaxialTotal
+447127.66,193911.62,BH404,TriaxialTotal,7.0,7.0,1,190.0,190.0,190.0,2024 - Arcadis Phase 2A,TriaxialTotal
+447205.54,195095.07,BH514,TriaxialTotal,16.9,16.9,1,75.0,75.0,75.0,2024 - Arcadis Phase 2A,TriaxialTotal
+447261.04,194833.96,BH536,TriaxialTotal,25.2,25.2,1,240.0,240.0,240.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+447466.94,195955.82,BH494,TriaxialTotal,3.0,6.5,2,77.0,91.0,84.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+447569.96,195011.97,BH548,TriaxialTotal,16.1,16.1,1,110.0,110.0,110.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+447825.84,195186.79,BH537,TriaxialTotal,12.0,12.0,1,139.0,139.0,139.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+448118.16,195368.75,BH538,TriaxialTotal,15.6,20.1,3,76.17,240.33,176.39000000000001,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+448623.5,195005.5,BH17,TriaxialTotal,3.0,10.9,2,100.0,280.0,190.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+448655.29,195268.84,BH506A,TriaxialTotal,13.83,13.83,1,199.5,199.5,199.5,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+448955.0,195164.0,BH541,TriaxialTotal,16.7,16.7,1,75.83,75.83,75.83,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+449276.57,195309.35,BH543,TriaxialTotal,21.5,21.5,1,180.0,180.0,180.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+449357.0,194979.0,BH18,TriaxialTotal,5.4,14.35,3,95.0,180.0,135.0,1991 to 1992 - Exploration Associates,TriaxialTotal
+449685.67,194926.76,BH425,TriaxialTotal,4.5,11.3,4,50.0,75.0,67.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
+449689.62,194873.91,BH423,TriaxialTotal,14.0,14.0,1,93.0,93.0,93.0,2024 to 2025 - Arcadis Phase 2B,TriaxialTotal
